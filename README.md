@@ -29,3 +29,11 @@ Princess Sumaya University for Technology<br>
     * Selection                    [[slides](https://drive.google.com/file/d/1NXCAi8vuF2J0HFUDgGvTF8Bd2U7QNYcl)]
 
 
+* **Recurrence Equations**         
+    * Introduction                 [[notes](https://drive.google.com/file/d/1mz7Glr3PedzP77wYnGlfdfUTvbv3SidA)]
+    * Recursion Tree Method        [[notes + exercises](https://drive.google.com/file/d/1sMUrc7DLmeXg81MWFqFs6Rb0hITRdvPS)]
+    * Master Method                [[slides](https://drive.google.com/file/d/1Lxfk8k8vkqoouynU3-bNOYixwqsuxUdo)]
+                                   [[exercises](https://drive.google.com/file/d/1TyRuBx9PB5BQq_GAV-4NjekKuA8SNc1l)]
+                                   [[optional-material](optional-material/master.md)]
+    * Iterative Substitution       [[notes](https://drive.google.com/file/d/11kRyPVPOfNPfwD39njN9P5Yh1ah0hZWF)] 
+  
