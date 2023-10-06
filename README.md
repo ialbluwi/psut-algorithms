@@ -10,7 +10,7 @@ Princess Sumaya University for Technology<br>
 [[previous exams](https://drive.google.com/drive/u/0/folders/1mmic8Ul1pXoO9C6xvaRsaXRQTrj1GqTY)]
 [[previous quizzes](https://drive.google.com/drive/u/0/folders/1tvNj3AYvK5YVm_U7Tp-eYpU-NWs-v_ZZ)]
 [[interview-prep](interview-prep/)]
-[[optional-material](interview-prep/)]
+[[optional-material](optional-material/)]
 
 ### Detailed Links
 
