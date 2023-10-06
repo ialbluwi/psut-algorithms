@@ -24,8 +24,8 @@ Princess Sumaya University for Technology<br>
 * **Divide & Conquer**             [[exercises](https://docs.google.com/document/d/1P8mtuPHjUSCAlzfV51izkOVw38kALpc9gy5E9x-5NBY/edit?usp=sharing)]
                                    [[interview-prep](interview-prep/dc.md)]
                                    [[optional-material](optional-material/dc.md)]
-    * Introduction + Merge Sort    [[slides](https://to-be-added-later.wait)]
-    * Quick Sort                   [[slides](https://to-be-added-later.wait)]
-    * Quick Select                 [[slides](https://to-be-added-later.wait)]
+    * Introduction + Merge Sort    [[slides](https://drive.google.com/file/d/1o13dQkmnxCxddsf13W4X419AHYa4wvKy)]
+    * Quick Sort                   [[slides](https://drive.google.com/file/d/1-_hZsaKTxAXF6hzejsHepf1DGv1id2od)]
+    * Selection                    [[slides](https://drive.google.com/file/d/1NXCAi8vuF2J0HFUDgGvTF8Bd2U7QNYcl)]
 
 
