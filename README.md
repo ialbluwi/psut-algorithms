@@ -37,15 +37,16 @@ Princess Sumaya University for Technology<br>
                                    [[optional-material](optional-material/master.md)]
     * Iterative Substitution       [[notes](https://drive.google.com/file/d/11kRyPVPOfNPfwD39njN9P5Yh1ah0hZWF)]
  
-* **Dynamic Programming**          [[exercises](url)]
+* **Dynamic Programming**          [[exercises](https://docs.google.com/document/d/1OgZW-Mtdydh8yaqPJm1TlZJz2te7eGJ29qA6JXgthQc)]
                                    [[interview-prep](url)]
                                    [[optional-material](url)]
-    * Introduction                 [[slides](url)]
-    * 0-1 Knapsack                 [[slides](url)]
-    * Weighted Activity Selection  [[slides](url)]
-    * Longest Common Subsequence   [[slides](url)]
+    * Introduction                 [[slides](https://drive.google.com/file/d/1up8z0O4oEByYWus2GFa1QXDu-jLJC34y)]
+    * 0-1 Knapsack                 [[slides](https://drive.google.com/file/d/1-NKjzeUQU27CkL9dP-haROCWJZGykTIZ)]
+    * Weighted Activity Selection  [[notes](https://drive.google.com/file/d/1yeQSte5L4nd3-15CwUy3BmP9-xiSN44u)]
+    * Longest Common Subsequence   [[notes](https://drive.google.com/file/d/1llVSTBTNT1Q8L2YDL3WJEZ_gCD-4tKJb)]
   
-* **Greedy Algorithms**            [[slides](url)][[exercises](url)]
+* **Greedy Algorithms**            [[slides](https://drive.google.com/file/d/11bMhcejneJjwvSv3IhoS2EDgpFF-Xbmj)]
+                                   [[exercises](url)]
                                    [[interview-prep](url)]
                                    [[optional-material](url)]
     
@@ -61,11 +62,12 @@ Princess Sumaya University for Technology<br>
     * Shortest Paths               [[notes](url)][[code](url)]
     * Minimum Spanning Trees       [[notes](url)][[code](url)]
 
-* **Backtracking**                 [[code](url)][[exercises](url)]
+* **Backtracking**                 [[code](https://drive.google.com/file/d/1SzQoKpGLHWAqSEpIjUfbnwKMymKmGxjA)]
+                                   [[exercises](https://docs.google.com/document/d/1YTE0tlv39OiHxYrs_vzgrua6921xjNct9Vo_4dtrFkU)]
                                    [[interview-prep](url)]
                                    [[optional-material](url)]
 
-* **P vs. NP**                     [[slides](url)]
-                                   [[exercises](url)]
+* **P vs. NP**                     [[slides](https://drive.google.com/file/d/1U2eVLn3eWTvL3sXw9GqxSbQ_bdBaAh_F)]
+                                   [[exercises](https://drive.google.com/file/d/1LhomwjcVGhWF9LtYkk-SM9iaZuWEAdVT)]
                                    [[interview-prep](url)]
                                    [[optional-material](url)]
