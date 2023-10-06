@@ -7,8 +7,8 @@ Princess Sumaya University for Technology<br>
 ### Quick Links
 [[slides](https://drive.google.com/drive/u/0/folders/15ezTID5fhYaOlR_0Zy5lP7jN4qcETCDi)] 
 [[exercises](https://drive.google.com/drive/folders/1aEaUMbczLLp80JzB5EnFStJsJrTa_mxw)] 
-[[previous exams](https://to-be-added-later.wait)]
-[[previous quizzes](https://to-be-added-later.wait)]
+[[previous exams](https://drive.google.com/drive/u/0/folders/1mmic8Ul1pXoO9C6xvaRsaXRQTrj1GqTY)]
+[[previous quizzes](https://drive.google.com/drive/u/0/folders/1tvNj3AYvK5YVm_U7Tp-eYpU-NWs-v_ZZ)]
 [[interview-prep](interview-prep/)]
 [[optional-material](interview-prep/)]
 
