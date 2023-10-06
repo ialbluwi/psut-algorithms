@@ -64,10 +64,10 @@ Princess Sumaya University for Technology<br>
 
 * **Backtracking**                 [[code](https://drive.google.com/file/d/1SzQoKpGLHWAqSEpIjUfbnwKMymKmGxjA)]
                                    [[exercises](https://docs.google.com/document/d/1YTE0tlv39OiHxYrs_vzgrua6921xjNct9Vo_4dtrFkU)]
-                                   [[interview-prep](url)]
-                                   [[optional-material](url)]
+                                   [interview-prep]
+                                   [optional-material]
 
 * **P vs. NP**                     [[slides](https://drive.google.com/file/d/1U2eVLn3eWTvL3sXw9GqxSbQ_bdBaAh_F)]
                                    [[exercises](https://drive.google.com/file/d/1LhomwjcVGhWF9LtYkk-SM9iaZuWEAdVT)]
-                                   [[interview-prep](url)]
-                                   [[optional-material](url)]
+                                   [interview-prep]
+                                   [optional-material]
