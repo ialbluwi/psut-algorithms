@@ -15,9 +15,9 @@ Princess Sumaya University for Technology<br>
 ### Detailed Links
 
 * **Asymptotic Notation**  [[slides (short)](https://drive.google.com/file/d/14mo6Z8_6il2zlEiX2CeqtUdQ5ncDUkl_/)] 
-                           [[slides (long)](https://drive.google.com/file/d/1IncXT77Na9JGFleUfsKDSBRha_XGnmpI/)] 
+                           [[slides (long)](https://drive.google.com/file/d/1IncXT77Na9JGFleUfsKDSBRha_XGnmpI/)]<br> 
                            [[solved exercises](https://docs.google.com/document/d/1PiICvOyTGuuyXjHlTLHfdDstboefJ46jHFOkSYu7ORI)] 
-                           [[extra exercises](https://drive.google.com/file/d/1fCnkcCc25tJga370pk3T5NDwf3zohkt3/view?usp=drive_link)]
+                           [[extra exercises](https://drive.google.com/file/d/1fCnkcCc25tJga370pk3T5NDwf3zohkt3/view?usp=drive_link)]<br>
                            [[math cheatsheet](https://drive.google.com/file/d/1LZ_169rEf6s6UEs9UQqg55SSazzozYuE/view?usp=drive_link)]
                            [[interview-prep](interview-prep/complexity.md)]
                            [[optional-material](optional-material/complexity.md)]
