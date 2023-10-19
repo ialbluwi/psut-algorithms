@@ -36,7 +36,9 @@ Princess Sumaya University for Technology<br>
                                    [[exercises](https://drive.google.com/file/d/1TyRuBx9PB5BQq_GAV-4NjekKuA8SNc1l)]
                                    [[optional-material](optional-material/master.md)]
     * Iterative Substitution       [[notes](https://drive.google.com/file/d/11kRyPVPOfNPfwD39njN9P5Yh1ah0hZWF)]
- 
+
+> **_NOTE:_**  The material below this line still under construction.
+
 * **Dynamic Programming**          [[exercises](https://docs.google.com/document/d/1OgZW-Mtdydh8yaqPJm1TlZJz2te7eGJ29qA6JXgthQc)]
                                    [interview-prep]
                                    [optional-material]
