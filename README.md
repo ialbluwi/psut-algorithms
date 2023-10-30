@@ -26,8 +26,10 @@ Princess Sumaya University for Technology<br>
                                    [[interview-prep](interview-prep/divide-conquer.md)]
                                    [[optional-material](optional-material/divide-conquer.md)]
     * Introduction + Merge Sort    [[slides](https://drive.google.com/file/d/1o13dQkmnxCxddsf13W4X419AHYa4wvKy)]
-    * Quick Sort                   [[slides](https://drive.google.com/file/d/1-_hZsaKTxAXF6hzejsHepf1DGv1id2od)]
-    * Selection                    [[slides](https://drive.google.com/file/d/1NXCAi8vuF2J0HFUDgGvTF8Bd2U7QNYcl)]
+    * Quick Sort                   [[slides (short)](https://drive.google.com/file/d/1nYmqU9Bdh5PnSC_cwYPYX4LbBJ_wJpk8)]
+                                   [[slides (long)](https://drive.google.com/file/d/1qsvZPhIMspop8T-9dKy1TQcROpgmX05Z/)]
+    * Selection                    [[slides (short)](https://drive.google.com/file/d/17VoJ39NUee3qLZp_Q544NVfNIaVBsAYM)]
+                                   [[slides (long)](https://drive.google.com/file/d/1fJasqEUfQbHFNaS3Bxw_9juFmLDD_yhD)]
 
 
 * **Recurrence Equations**         
