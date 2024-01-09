@@ -63,7 +63,7 @@ Princess Sumaya University for Technology<br>
     * Graph Traversals (BFT & DFT) [[slides](https://drive.google.com/file/d/1iOauIHNNAibCwtA3TK41PKmzkaSP251a)]
     * Topological Sort             [[slides](https://drive.google.com/file/d/16l6wzluLs8mBnQKZxTtI8_n2LwuNiqX6/view?usp=sharing)]
                                    [[code](https://drive.google.com/file/d/1hCMWf3WIbWeocC_0qzqmjA9ecLukHKKv)]
-    * Shortest Paths               [notes][[code](https://drive.google.com/file/d/162_MLC6VGm1AZ8u1YuFwHi3ih5P6jj8G)]
+    * Shortest Paths               [[slides](https://drive.google.com/file/d/15TEl8zHkuKIAlN1nl8a-4HuSp2vjva_O)][[code](https://drive.google.com/file/d/162_MLC6VGm1AZ8u1YuFwHi3ih5P6jj8G)]
     * Minimum Spanning Trees       [notes][[code](https://drive.google.com/file/d/1bQQlZdbsupT6FdAzoM7oR2Cv5aBGCrQF)]
 
 * **Backtracking**                 [[code](https://drive.google.com/file/d/1SzQoKpGLHWAqSEpIjUfbnwKMymKmGxjA)]
