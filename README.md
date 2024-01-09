@@ -68,7 +68,8 @@ Princess Sumaya University for Technology<br>
     * Minimum Spanning Trees       [[slides](https://drive.google.com/file/d/1SkVnxyed9eYitYF2j7hJh5dC5HJsOPSb)]
                                    [[code](https://drive.google.com/file/d/1bQQlZdbsupT6FdAzoM7oR2Cv5aBGCrQF)]
 
-* **Backtracking**                 [[code](https://drive.google.com/file/d/1SzQoKpGLHWAqSEpIjUfbnwKMymKmGxjA)]
+* **Backtracking & Branch and Bound**                 
+                                   [[code](https://drive.google.com/file/d/1SzQoKpGLHWAqSEpIjUfbnwKMymKmGxjA)]
                                    [[exercises](https://docs.google.com/document/d/1YTE0tlv39OiHxYrs_vzgrua6921xjNct9Vo_4dtrFkU)]
                                    [interview-prep]
                                    [optional-material]
