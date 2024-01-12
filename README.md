@@ -71,6 +71,7 @@ Princess Sumaya University for Technology<br>
 * **Backtracking & Branch and Bound**                 
                                    [[code](https://drive.google.com/file/d/1SzQoKpGLHWAqSEpIjUfbnwKMymKmGxjA)]
                                    [[exercises](https://docs.google.com/document/d/1YTE0tlv39OiHxYrs_vzgrua6921xjNct9Vo_4dtrFkU)]
+                                   [[slides](https://drive.google.com/file/d/1kjeXRczTEMWeSf5rk7YHE9qEVgpOUF34)]
                                    [interview-prep]
                                    [optional-material]
 
