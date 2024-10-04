@@ -14,8 +14,7 @@ Princess Sumaya University for Technology<br>
 
 ### Detailed Links
 
-* **Graphs**                       [interview-prep]
-                                   [optional-material]
+* **Graphs** 
     * Introduction                 [[slides (short)](https://drive.google.com/file/d/1vIbEBHi8pGOlHIPf5lUBfDUUs-ac5RDH/)] 
                                    [[slides (long)](https://drive.google.com/file/d/1fhcYNTnmLkEKMvBzls3HesdGga97cqmH/)]
                                    [[code](https://drive.google.com/file/d/1jgNftYLPDEzdD0U_5jYXn_fgl56RwE4g/)]
@@ -28,6 +27,8 @@ Princess Sumaya University for Technology<br>
                                    [[code](https://drive.google.com/file/d/1_vA1YxbWWR3lr21ux248HRsza66Dq4fj/)]
     * Minimum Spanning Trees       [[slides](https://drive.google.com/file/d/1TAX45xeJIYbjw4P9ySMqZZcgF6iehipy/)]
                                    [[code](https://drive.google.com/file/d/1phH9_Ra7rpH2fpWdSr6hvuCVS_zmpJT3/)]
+    * [[optional-material](optional-material/graphs.md)]
+    * [[interview-prep](interview-prep/graphs.md)]
       
 * **Asymptotic Notation**  [[slides (short)](https://drive.google.com/file/d/14mo6Z8_6il2zlEiX2CeqtUdQ5ncDUkl_/)] 
                            [[slides (long)](https://drive.google.com/file/d/1IncXT77Na9JGFleUfsKDSBRha_XGnmpI/)]<br> 
@@ -37,14 +38,15 @@ Princess Sumaya University for Technology<br>
                            [[interview-prep](interview-prep/complexity.md)]
                            [[optional-material](optional-material/complexity.md)]
 
-* **Divide & Conquer**             [[exercises](https://docs.google.com/document/d/1P8mtuPHjUSCAlzfV51izkOVw38kALpc9gy5E9x-5NBY/edit?usp=sharing)]
-                                   [[interview-prep](interview-prep/divide-conquer.md)]
-                                   [[optional-material](optional-material/divide-conquer.md)]
+* **Divide & Conquer**             
     * Introduction + Merge Sort    [[slides](https://drive.google.com/file/d/1o13dQkmnxCxddsf13W4X419AHYa4wvKy)]
     * Quick Sort                   [[slides (short)](https://drive.google.com/file/d/1nYmqU9Bdh5PnSC_cwYPYX4LbBJ_wJpk8)]
                                    [[slides (long)](https://drive.google.com/file/d/1qsvZPhIMspop8T-9dKy1TQcROpgmX05Z/)]
     * Selection                    [[slides (short)](https://drive.google.com/file/d/17VoJ39NUee3qLZp_Q544NVfNIaVBsAYM)]
                                    [[slides (long)](https://drive.google.com/file/d/1fJasqEUfQbHFNaS3Bxw_9juFmLDD_yhD)]
+    * [[exercises](https://docs.google.com/document/d/1P8mtuPHjUSCAlzfV51izkOVw38kALpc9gy5E9x-5NBY/edit?usp=sharing)]
+    * [[interview-prep](interview-prep/divide-conquer.md)]
+    * [[optional-material](optional-material/divide-conquer.md)]
 
 
 * **Recurrence Equations**         
@@ -57,13 +59,14 @@ Princess Sumaya University for Technology<br>
 
 > **_NOTE:_**  The material below this line is still under construction.
 
-* **Dynamic Programming**          [[exercises](https://docs.google.com/document/d/1OgZW-Mtdydh8yaqPJm1TlZJz2te7eGJ29qA6JXgthQc)]
-                                   [interview-prep]
-                                   [optional-material]
+* **Dynamic Programming**          
     * Introduction                 [[slides](https://drive.google.com/file/d/1up8z0O4oEByYWus2GFa1QXDu-jLJC34y)]
     * 0-1 Knapsack                 [[slides](https://drive.google.com/file/d/1-NKjzeUQU27CkL9dP-haROCWJZGykTIZ)]
     * Weighted Activity Selection  [[notes](https://drive.google.com/file/d/1yeQSte5L4nd3-15CwUy3BmP9-xiSN44u)]
     * Longest Common Subsequence   [[notes](https://drive.google.com/file/d/1llVSTBTNT1Q8L2YDL3WJEZ_gCD-4tKJb)]
+    * [[exercises](https://docs.google.com/document/d/1OgZW-Mtdydh8yaqPJm1TlZJz2te7eGJ29qA6JXgthQc)]
+    * [interview-prep]
+    * [optional-material]
   
 * **Greedy Algorithms**            [[slides](https://drive.google.com/file/d/11bMhcejneJjwvSv3IhoS2EDgpFF-Xbmj)]
                                    [exercises]
