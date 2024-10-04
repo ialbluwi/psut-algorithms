@@ -1,6 +1,6 @@
 ## Sorting Lower Bound
 
-This is a very important result in computer science. Check [these slides](https://drive.google.com/file/d/1ihI42MveiRaLQ-NkrUSbpbMQ-u7yc4ay/view?usp=drive_link).
+This is a very important result in computer science. Check [these slides](https://drive.google.com/file/d/1ihI42MveiRaLQ-NkrUSbpbMQ-u7yc4ay/view?usp=drive_link) or [this video](https://www.youtube.com/watch?v=UkmF2HXxTcw).
 
 ## Median Finding
 * Quick Select has bad theoretical worst-case running time. How can we find the median in linear time? [Watch Turing Award winner Blum talk about his algorithm](https://www.youtube.com/watch?v=3NWz6PY-4-k&ab_channel=TuringAwardeeClips). [Watch this explanation of the algorithm](https://www.youtube.com/watch?v=n8cyxDtp9t4&ab_channel=EasyTheory).
@@ -19,4 +19,3 @@ This is a classic (and quite clever) algorithm for multiplying two integers. It 
 While the divide and conquer algorithm is not the fastest known algorithm for this problem, it is a classic example of divide and conquer that can be eye opening to learn! [[video](https://www.youtube.com/watch?v=6u_hWxbOc7E&ab_channel=LingQi)]
 
 - **Strassen's Algorithm for Matrix Multiplication** ([wikipedia article](https://en.wikipedia.org/wiki/Strassen_algorithm))
-- **The _MergeHull_ and _QuickHull_ algorithms for finding convex hulls.**
