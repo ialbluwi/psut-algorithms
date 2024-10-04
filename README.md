@@ -14,8 +14,7 @@ Princess Sumaya University for Technology<br>
 
 ### Detailed Links
 
-* **Graphs**                       [exercises]
-                                   [interview-prep]
+* **Graphs**                       [interview-prep]
                                    [optional-material]
     * Introduction                 [[slides (short)](https://drive.google.com/file/d/1vIbEBHi8pGOlHIPf5lUBfDUUs-ac5RDH/)] 
                                    [[slides (long)](https://drive.google.com/file/d/1fhcYNTnmLkEKMvBzls3HesdGga97cqmH/)]
