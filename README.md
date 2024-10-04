@@ -14,6 +14,22 @@ Princess Sumaya University for Technology<br>
 
 ### Detailed Links
 
+* **Graphs**                       [exercises]
+                                   [interview-prep]
+                                   [optional-material]
+    * Introduction                 [[slides (short)](https://drive.google.com/file/d/1vIbEBHi8pGOlHIPf5lUBfDUUs-ac5RDH/)] 
+                                   [[slides (long)](https://drive.google.com/file/d/1fhcYNTnmLkEKMvBzls3HesdGga97cqmH/)]
+                                   [[code](https://drive.google.com/file/d/1jgNftYLPDEzdD0U_5jYXn_fgl56RwE4g/)]
+    * Graph Traversals (BFT & DFT) [[slides (short)](https://drive.google.com/file/d/1fR3AsEQn84guahNnKVeL3lOgAFvYNKyz/)] 
+                                   [[slides (long)](https://drive.google.com/file/d/1_wj-m4c_WOKiT6Qq2DSUY3ZXQP7OrCtD/)]
+    * Topological Sort             [[slides](https://drive.google.com/file/d/1xWo3TQFMiDe31e-Bqy9PxumRegMaRpwO/)]
+                                   [[code](https://drive.google.com/file/d/19DG3jTJa12aP22INhpkx_huJ4poHdnqg/)]
+    * Shortest Paths               [[slides (short)](https://drive.google.com/file/d/1bd-NuwswVWT7swyHDY-jYT5FPIcgPppS/)] 
+                                   [[slides (long)](https://drive.google.com/file/d/1fz5vPtoOSfnUf61_xk8Xy3z--GE6C4ZE/)]
+                                   [[code](https://drive.google.com/file/d/1_vA1YxbWWR3lr21ux248HRsza66Dq4fj/)]
+    * Minimum Spanning Trees       [[slides](https://drive.google.com/file/d/1TAX45xeJIYbjw4P9ySMqZZcgF6iehipy/)]
+                                   [[code](https://drive.google.com/file/d/1phH9_Ra7rpH2fpWdSr6hvuCVS_zmpJT3/)]
+      
 * **Asymptotic Notation**  [[slides (short)](https://drive.google.com/file/d/14mo6Z8_6il2zlEiX2CeqtUdQ5ncDUkl_/)] 
                            [[slides (long)](https://drive.google.com/file/d/1IncXT77Na9JGFleUfsKDSBRha_XGnmpI/)]<br> 
                            [[solved exercises](https://docs.google.com/document/d/1PiICvOyTGuuyXjHlTLHfdDstboefJ46jHFOkSYu7ORI)] 
@@ -54,19 +70,6 @@ Princess Sumaya University for Technology<br>
                                    [exercises]
                                    [interview-prep]
                                    [optional-material]
-    
-* **Graphs**                       [exercises]
-                                   [interview-prep]
-                                   [optional-material]
-    * Introduction                 [[slides](https://drive.google.com/file/d/1-dgbUhzV1OaZnKZjZZr3-RE18NipL_pJ)]
-                                   [[code](https://drive.google.com/file/d/1_o0ACwgsDfdWByGx7EeWu4AsYjtmV9hM)]
-    * Graph Traversals (BFT & DFT) [[slides](https://drive.google.com/file/d/1iOauIHNNAibCwtA3TK41PKmzkaSP251a)]
-    * Topological Sort             [[slides](https://drive.google.com/file/d/16l6wzluLs8mBnQKZxTtI8_n2LwuNiqX6/view?usp=sharing)]
-                                   [[code](https://drive.google.com/file/d/1hCMWf3WIbWeocC_0qzqmjA9ecLukHKKv)]
-    * Shortest Paths               [[slides](https://drive.google.com/file/d/15TEl8zHkuKIAlN1nl8a-4HuSp2vjva_O)]
-                                   [[code](https://drive.google.com/file/d/162_MLC6VGm1AZ8u1YuFwHi3ih5P6jj8G)]
-    * Minimum Spanning Trees       [[slides](https://drive.google.com/file/d/1SkVnxyed9eYitYF2j7hJh5dC5HJsOPSb)]
-                                   [[code](https://drive.google.com/file/d/1bQQlZdbsupT6FdAzoM7oR2Cv5aBGCrQF)]
 
 * **Backtracking & Branch and Bound**                 
                                    [[code](https://drive.google.com/file/d/1SzQoKpGLHWAqSEpIjUfbnwKMymKmGxjA)]
