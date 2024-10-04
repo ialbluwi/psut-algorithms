@@ -55,7 +55,7 @@ Princess Sumaya University for Technology<br>
     * Master Method                [[slides](https://drive.google.com/file/d/1Lxfk8k8vkqoouynU3-bNOYixwqsuxUdo)]
                                    [[exercises](https://drive.google.com/file/d/1TyRuBx9PB5BQq_GAV-4NjekKuA8SNc1l)]
                                    [[optional-material](optional-material/master.md)]
-    * Iterative Substitution       [[notes](https://drive.google.com/file/d/11kRyPVPOfNPfwD39njN9P5Yh1ah0hZWF)]
+    * ~~Iterative Substitution       [[notes](https://drive.google.com/file/d/11kRyPVPOfNPfwD39njN9P5Yh1ah0hZWF)]~~
 
 > **_NOTE:_**  The material below this line is still under construction.
 
