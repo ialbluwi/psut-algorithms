@@ -1,4 +1,4 @@
-Below are two videos you might want to watch as you are having lunch or on a Friday night (instead of scrolling down pointlessly on Facebook or TikTok)
+Below are two videos you might want to watch as you are having lunch or on a Friday night (instead of scrolling down pointlessly on Instagram or ~~TikTok~~)
 
 ## Donald Knuth
 
