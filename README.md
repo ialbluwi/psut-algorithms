@@ -45,7 +45,7 @@ Princess Sumaya University for Technology<br>
     * Selection                    [[slides (short)](https://drive.google.com/file/d/17VoJ39NUee3qLZp_Q544NVfNIaVBsAYM)]
                                    [[slides (long)](https://drive.google.com/file/d/1fJasqEUfQbHFNaS3Bxw_9juFmLDD_yhD)]
     * [[exercises](https://docs.google.com/document/d/1P8mtuPHjUSCAlzfV51izkOVw38kALpc9gy5E9x-5NBY/edit?usp=sharing)]
-    * [[interview-prep](interview-prep/divide-conquer.md)]
+    <!-- * [[interview-prep](interview-prep/divide-conquer.md)] -->
     * [[optional-material](optional-material/divide-conquer.md)]
 
 
@@ -65,22 +65,22 @@ Princess Sumaya University for Technology<br>
     * Weighted Activity Selection  [[notes](https://drive.google.com/file/d/1yeQSte5L4nd3-15CwUy3BmP9-xiSN44u)]
     * Longest Common Subsequence   [[notes](https://drive.google.com/file/d/1llVSTBTNT1Q8L2YDL3WJEZ_gCD-4tKJb)]
     * [[exercises](https://docs.google.com/document/d/1OgZW-Mtdydh8yaqPJm1TlZJz2te7eGJ29qA6JXgthQc)]
-    * [interview-prep]
+    <!-- * [interview-prep] -->
     * [optional-material]
   
 * **Greedy Algorithms**            [[slides](https://drive.google.com/file/d/11bMhcejneJjwvSv3IhoS2EDgpFF-Xbmj)]
                                    [exercises]
-                                   [interview-prep]
+                                   <!-- [interview-prep] -->
                                    [optional-material]
 
 * **Backtracking & Branch and Bound**                 
                                    [[code](https://drive.google.com/file/d/1SzQoKpGLHWAqSEpIjUfbnwKMymKmGxjA)]
                                    [[exercises](https://docs.google.com/document/d/1YTE0tlv39OiHxYrs_vzgrua6921xjNct9Vo_4dtrFkU)]
                                    [[slides](https://drive.google.com/file/d/1kjeXRczTEMWeSf5rk7YHE9qEVgpOUF34)]
-                                   [interview-prep](interview-prep/backtracking.md)
+                                   <!-- [interview-prep](interview-prep/backtracking.md) -->
                                    [optional-material]
 
 * **P vs. NP**                     [[slides](https://drive.google.com/file/d/1U2eVLn3eWTvL3sXw9GqxSbQ_bdBaAh_F)]
                                    [[exercises](https://drive.google.com/file/d/1LhomwjcVGhWF9LtYkk-SM9iaZuWEAdVT)]
-                                   [interview-prep]
+                                   <!-- [interview-prep] -->
                                    [optional-material]
