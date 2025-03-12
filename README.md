@@ -28,7 +28,7 @@ Princess Sumaya University for Technology<br>
     * Minimum Spanning Trees       [[slides](https://drive.google.com/file/d/1TAX45xeJIYbjw4P9ySMqZZcgF6iehipy/)]
                                    [[code](https://drive.google.com/file/d/1phH9_Ra7rpH2fpWdSr6hvuCVS_zmpJT3/)]
     * [[optional-material](optional-material/graphs.md)]
-    * [[interview-prep](interview-prep/graphs.md)]
+    <!--* [[interview-prep](interview-prep/graphs.md)] -->
       
 * **Asymptotic Notation**  [[slides (short)](https://drive.google.com/file/d/14mo6Z8_6il2zlEiX2CeqtUdQ5ncDUkl_/)] 
                            [[slides (long)](https://drive.google.com/file/d/1IncXT77Na9JGFleUfsKDSBRha_XGnmpI/)]<br> 
