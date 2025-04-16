@@ -51,7 +51,7 @@ Princess Sumaya University for Technology<br>
 
 * **Recurrence Equations**         
     * Introduction                 [[notes](https://drive.google.com/file/d/1mz7Glr3PedzP77wYnGlfdfUTvbv3SidA)]
-    * Recursion Tree Method        [[notes + exercises](https://drive.google.com/file/d/1sMUrc7DLmeXg81MWFqFs6Rb0hITRdvPS)]
+    * Recursion Tree Method        [[notes + exercises](https://drive.google.com/file/d/1sMUrc7DLmeXg81MWFqFs6Rb0hITRdvPS)][[solutions](https://drive.google.com/file/d/1ZayyGlh_GYi9zZsICty3Espb3Tqnbi28/view?usp=sharing)]
     * Master Method                [[slides](https://drive.google.com/file/d/1Lxfk8k8vkqoouynU3-bNOYixwqsuxUdo)]
                                    [[exercises](https://drive.google.com/file/d/1TyRuBx9PB5BQq_GAV-4NjekKuA8SNc1l)]
                                    [[optional-material](optional-material/master.md)]
