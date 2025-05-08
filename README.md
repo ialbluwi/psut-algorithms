@@ -63,6 +63,8 @@ Princess Sumaya University for Technology<br>
     * Introduction                 [[slides](https://drive.google.com/file/d/1up8z0O4oEByYWus2GFa1QXDu-jLJC34y)]
     * 0-1 Knapsack                 [[slides](https://drive.google.com/file/d/1-NKjzeUQU27CkL9dP-haROCWJZGykTIZ)]
     * Weighted Activity Selection  [[notes](https://drive.google.com/file/d/1yeQSte5L4nd3-15CwUy3BmP9-xiSN44u)]
+                                   [[slides (long)](https://drive.google.com/file/d/1oeMWP7R5YBcx1n49nge7erMK07uzZ7Nw/)]
+                                   [[slides (short)](https://drive.google.com/file/d/1LnliZm8EnnSIoISZPpriZM74wG91KKhg/)]
     * Longest Common Subsequence   [[notes](https://drive.google.com/file/d/1llVSTBTNT1Q8L2YDL3WJEZ_gCD-4tKJb)]
     * [[exercises](https://docs.google.com/document/d/1OgZW-Mtdydh8yaqPJm1TlZJz2te7eGJ29qA6JXgthQc)]
     <!-- * [interview-prep] -->
