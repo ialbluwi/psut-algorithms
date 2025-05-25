@@ -80,7 +80,7 @@ Princess Sumaya University for Technology<br>
                                    [[exercises](https://docs.google.com/document/d/1YTE0tlv39OiHxYrs_vzgrua6921xjNct9Vo_4dtrFkU)]
                                    [[solutions](https://docs.google.com/document/d/1p5wAd3cgPYtjGtTBYrc5pssapOtNZ7JKM6nQe0VB4tM)]
                                    [[slides](https://drive.google.com/file/d/1kjeXRczTEMWeSf5rk7YHE9qEVgpOUF34)]
-                                   <!-- [interview-prep](interview-prep/backtracking.md) -->
+                                   [interview-prep](interview-prep/backtracking.md)
                                    [optional-material]
 
 * **P vs. NP**                     [[slides](https://drive.google.com/file/d/1U2eVLn3eWTvL3sXw9GqxSbQ_bdBaAh_F)]
