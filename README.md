@@ -71,14 +71,13 @@ Princess Sumaya University for Technology<br>
     * [optional-material]
   
 * **Greedy Algorithms**            [[slides](https://drive.google.com/file/d/11bMhcejneJjwvSv3IhoS2EDgpFF-Xbmj)]
-                                   [exercises]
+                                   [[exercises](https://docs.google.com/document/d/1V3c-5-NiEmL-mqJYouv4FpaTtzVFHovP3cAY4zgDVdY)]
                                    <!-- [interview-prep] -->
                                    [optional-material]
 
 * **Backtracking & Branch and Bound**                 
                                    [[code](https://drive.google.com/file/d/1SzQoKpGLHWAqSEpIjUfbnwKMymKmGxjA)]
-                                   [[exercises](https://docs.google.com/document/d/1YTE0tlv39OiHxYrs_vzgrua6921xjNct9Vo_4dtrFkU)]
-                                   [[solutions](https://docs.google.com/document/d/1p5wAd3cgPYtjGtTBYrc5pssapOtNZ7JKM6nQe0VB4tM)]
+                                   [[exercises](https://docs.google.com/document/d/1p5wAd3cgPYtjGtTBYrc5pssapOtNZ7JKM6nQe0VB4tM)]
                                    [[slides](https://drive.google.com/file/d/1kjeXRczTEMWeSf5rk7YHE9qEVgpOUF34)]
                                    [interview-prep](interview-prep/backtracking.md)
                                    [optional-material]
