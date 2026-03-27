@@ -28,6 +28,7 @@ If we are interested in analyzing the running time of this algorithm, we notice 
 - If the search interval is **not empty**, we make 1-2 comparisons and then a new call to `search` on an interval that is half the size of the original.
 
 Therefore, we can express the time needed to search an array of size $n$ using the following recurrence equation:
+
 $$T(n) = \begin{cases}
 c & \text{if } n = 0 \\
 c + T(n/2) & \text{if } n > 0
