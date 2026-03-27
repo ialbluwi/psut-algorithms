@@ -38,6 +38,14 @@ Princess Sumaya University for Technology<br>
                            [[interview-prep](interview-prep/complexity.md)]
                            [[optional-material](optional-material/complexity.md)]
 
+* **Recurrence Equations**         
+    * Introduction                 [[notes](notes/recurrences-intro.md)]
+    * Recursion Tree Method        [[notes + exercises](https://drive.google.com/file/d/1qINRUccEHHfntMtGQH_AYeuF0PbMCAPB/view?usp=drive_link)][[solutions](https://drive.google.com/file/d/1ZayyGlh_GYi9zZsICty3Espb3Tqnbi28/view?usp=sharing)]
+    * Master Method                [[slides](https://drive.google.com/file/d/1Lxfk8k8vkqoouynU3-bNOYixwqsuxUdo)]
+                                   [[exercises](https://drive.google.com/file/d/1TyRuBx9PB5BQq_GAV-4NjekKuA8SNc1l)]
+                                   [[optional-material](optional-material/master.md)]
+    * ~~Iterative Substitution       [[notes](https://drive.google.com/file/d/11kRyPVPOfNPfwD39njN9P5Yh1ah0hZWF)]~~
+
 * **Divide & Conquer**             
     * Introduction + Merge Sort    [[slides](https://drive.google.com/file/d/1o13dQkmnxCxddsf13W4X419AHYa4wvKy)]
     * Quick Sort                   [[slides (short)](https://drive.google.com/file/d/1nYmqU9Bdh5PnSC_cwYPYX4LbBJ_wJpk8)]
@@ -48,14 +56,6 @@ Princess Sumaya University for Technology<br>
     <!-- * [[interview-prep](interview-prep/divide-conquer.md)] -->
     * [[optional-material](optional-material/divide-conquer.md)]
 
-
-* **Recurrence Equations**         
-    * Introduction                 [[notes](https://drive.google.com/file/d/1mz7Glr3PedzP77wYnGlfdfUTvbv3SidA)]
-    * Recursion Tree Method        [[notes + exercises](https://drive.google.com/file/d/1sMUrc7DLmeXg81MWFqFs6Rb0hITRdvPS)][[solutions](https://drive.google.com/file/d/1ZayyGlh_GYi9zZsICty3Espb3Tqnbi28/view?usp=sharing)]
-    * Master Method                [[slides](https://drive.google.com/file/d/1Lxfk8k8vkqoouynU3-bNOYixwqsuxUdo)]
-                                   [[exercises](https://drive.google.com/file/d/1TyRuBx9PB5BQq_GAV-4NjekKuA8SNc1l)]
-                                   [[optional-material](optional-material/master.md)]
-    * ~~Iterative Substitution       [[notes](https://drive.google.com/file/d/11kRyPVPOfNPfwD39njN9P5Yh1ah0hZWF)]~~
 
 > **_NOTE:_**  The material below this line is still under construction.
 
