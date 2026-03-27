@@ -140,10 +140,9 @@ int fibonacci(int n) {
 <details>
   <summary>Solution</summary>
 
-$$T(n) = \begin{cases}
-c & \text{if } n = 0 \text{ or } n = 1 \\
-c + T(n - 1) + T(n - 2) & \text{if } n > 1
-\end{cases}$$
+<p align="center">
+  <img src="fib.png" width="400">
+</p>
 
 </details>
 
@@ -170,10 +169,9 @@ void selection_sort(int a[], int n, int lo, int hi) {
 <details>
   <summary>Solution</summary>
 
-$$T(n) = \begin{cases}
-c & \text{if } n \leq 1 \\
-cn + T(n - 1) & \text{if } n > 1
-\end{cases}$$
+<p align="center">
+  <img src="selection.png" width="300">
+</p>
 
 </details>
 
@@ -192,10 +190,9 @@ void clear_tree(Node* root) {
 <details>
   <summary>Solution</summary>
 
-$$T(n) \approx \begin{cases}
-c & \text{if } n = 0 \\
-2T(n/2) + c & \text{if } n > 0
-\end{cases}$$
+<p align="center">
+  <img src="clear.png" width="300">
+</p>
 
 </details>
 
@@ -213,10 +210,9 @@ int find_max(Node* root) {
 <details>
   <summary>Solution</summary>
 
-$$T(n) \approx \begin{cases}
-c & \text{if } n = 0 \\
-2T(n/2) + c & \text{if } n > 0
-\end{cases}$$
+<p align="center">
+  <img src="clear.png" width="300">
+</p>
 
 </details>
 
@@ -236,10 +232,9 @@ void ten_ten(int n) {
 <details>
   <summary>Solution</summary>
 
-$$T(n) = \begin{cases}
-c & \text{if } n \leq 1 \\
-c + 10T(n/2) & \text{if } n > 1
-\end{cases}$$
+<p align="center">
+  <img src="tenten.png" width="300">
+</p>
 
 </details>
 
@@ -259,10 +254,9 @@ void insanity(int a[], int n) {
 <details>
   <summary>Solution</summary>
 
-$$T(n) = \begin{cases}
-c & \text{if } n \leq 1 \\
-cn^2 + T(n/2) & \text{if } n > 1
-\end{cases}$$
+<p align="center">
+  <img src="insanity.png" width="300">
+</p>
 
 </details>
 
@@ -282,10 +276,9 @@ void true_insanity(int a[], int n) {
 <details>
   <summary>Solution</summary>
 
-$$T(n) = \begin{cases}
-c & \text{if } n \leq 1 \\
-cn^2 + 2T(n-1) & \text{if } n > 1
-\end{cases}$$
+<p align="center">
+  <img src="true_insanity.png" width="300">
+</p>
 
 </details>
 
@@ -303,11 +296,10 @@ void ultimate_insanity(int a[], int n) {
 ```
 
 <details>
-  <summary>Solution</summary>
+  <summary>Solution</summary> 
 
-$$T(n) = \begin{cases}
-c & \text{if } n \leq 1 \\
-cn^2 + nT(n-1) & \text{if } n > 1
-\end{cases}$$
+<p align="center">
+  <img src="ultimate_insanity.png" width="300">
+</p>
 
 </details>
