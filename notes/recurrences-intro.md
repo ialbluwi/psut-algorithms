@@ -23,7 +23,7 @@ bool search(int a[], int k, int lo, int hi) {
 }
 ```
 
-If we are interested in analyzing the running time of this algorithm, we notice that the following:
+If we are interested in analyzing the running time of this algorithm, we notice the following:
 - If the search interval is **empty** (i.e., `lo > hi`), then we perform _constant_ amount of work.
 - If the search interval is **not empty**, we make 1-2 comparisons and then a new call to `search` on an interval that is half the size of the original.
 
