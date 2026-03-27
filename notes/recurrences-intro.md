@@ -2,7 +2,7 @@
 
 A _recurrence equation_ defines a function in terms of its value on smaller inputs. Such equations are useful for describing the behavior of _recursive_ algorithms. 
 
-Given a recursive algorithm and a certain aspect of its behavior that we want to analyze (e.g., the number of operations it performs, or the amount of memory it uses), we can often express that using a recurrence equation. Solving the recurrence equation then gives us insight into the behavior of the algorithm (e.g., its time complexity or space complexity).
+Given a recursive algorithm and a certain aspect of its behavior that we want to analyze (e.g., the number of operations it performs, or the amount of memory it uses), we can express that using a recurrence equation. Solving the recurrence equation then gives us insight into the behavior of the algorithm (e.g., its time complexity or space complexity).
 
 ## Example 1
 
