@@ -2,7 +2,7 @@
 
 A _recurrence equation_ defines a function in terms of its value on smaller inputs. Such equations are useful for describing the behavior of _recursive_ algorithms. 
 
-Given a recursive algorithm and a certain aspect of its behavior that we want to analyze (e.g., the number of operations it performs, or the amount of memory it uses), we can often express that using a recurrence equation. Solving the recurrence equation then gives us insight into the behavior of the algorithm (e.g., its time complexity or space complexity).
+Given a recursive algorithm and a certain aspect of its behavior that we want to analyze (e.g., the number of operations it performs, or the amount of memory it uses), we can express that using a recurrence equation. Solving the recurrence equation then gives us insight into the behavior of the algorithm (e.g., its time complexity or space complexity).
 
 ## Example 1
 
@@ -23,9 +23,9 @@ bool search(int a[], int k, int lo, int hi) {
 }
 ```
 
-If we are interested in analyzing the running time of this algorithm, we notice that the following:
-- If the search interval is **empty** (i.e., `lo > hi`), then we perform _constant_ amount of work.
-- If the search interval is **not empty**, we make 1-2 comparisons and then a new call to `search` on an interval that is half the size of the original.
+Note the following:
+- If the search interval is **empty** (i.e., `lo > hi`), we perform _constant_ amount of work.
+- If the search interval is **not empty**, we make 1-2 comparisons and a new call to `search` on an interval that is _half_ the size of the original.
 
 Therefore, we can express the time needed to search an array of size $n$ using the following recurrence equation:
 
@@ -34,7 +34,7 @@ c & \text{if } n = 0 \\
 c + T(n/2) & \text{if } n > 0
 \end{cases}$$
 
-> 💡 The recurrence equation tells us that the time needed to search an array of size $n$ is equal to the time needed to search an array of size $n/2$ plus a constant.
+> 💡 The recurrence equation tells us that the time needed to search an array of size $n$ (i.e., $T(n)$ ) is equal to the time needed to search an array of size $n/2$ plus a constant.
 
 But what is the time needed to search an array of size $n/2$? We can express that using the same recurrence equation: $T(n/2) = c + T(n/4)$, which makes the original equation look like this:
 
@@ -60,9 +60,9 @@ int find_max(int a[], int lo, int hi) {
 }
 ```
 
-If we are interested in analyzing the running time of this algorithm, we notice that the following:
+Note the following:
 - If the search interval has **one element** (i.e., `lo == hi`), the algorithm performs _constant_ amount of work.
-- If the search interval has **more than one element**, we make 1 comparison in addition to a new call to `find_max` on an interval that is _one element smaller_ than the original.
+- If the search interval has **more than one element**, the algorithm performs 1 comparison in addition to a new call to `find_max` on an interval that is _one element smaller_ than the original.
 
 Therefore, we can express the time needed to find the maximum element in an array of size $n$ using the following recurrence equation:
 
@@ -71,7 +71,7 @@ c & \text{if } n = 1 \\
 c + T(n - 1) & \text{if } n > 1
 \end{cases}$$
 
-> 💡 The time needed to find the maximum in an array of size $n$ is the time needed to find the maximum in an array of size $n-1$ plus a single comparison.
+> 💡 The time needed to find the maximum in an array of size $n$ ( $T(n)$ ) is the time needed to find the maximum in an array of size $n-1$ ( $T(n-1)$ ) plus a single comparison.
 
 To find the maximum in an array of size $n-1$, we can apply the same reasoning again to get:
 
