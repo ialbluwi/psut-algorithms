@@ -46,6 +46,8 @@ Princess Sumaya University for Technology<br>
                                    [[optional-material](optional-material/master.md)]
     * ~~Iterative Substitution       [[notes](https://drive.google.com/file/d/11kRyPVPOfNPfwD39njN9P5Yh1ah0hZWF)]~~
 
+> **_NOTE:_**  The material below this line is still under construction.
+
 * **Backtracking & Branch and Bound**                 
                                    [[code](https://drive.google.com/file/d/1SzQoKpGLHWAqSEpIjUfbnwKMymKmGxjA)]
                                    [[exercises](https://docs.google.com/document/d/1p5wAd3cgPYtjGtTBYrc5pssapOtNZ7JKM6nQe0VB4tM)]
@@ -61,9 +63,6 @@ Princess Sumaya University for Technology<br>
     * [[exercises](https://docs.google.com/document/d/1P8mtuPHjUSCAlzfV51izkOVw38kALpc9gy5E9x-5NBY/edit?usp=sharing)]
     <!-- * [[interview-prep](interview-prep/divide-conquer.md)] -->
     * [[optional-material](optional-material/divide-conquer.md)]
-
-
-> **_NOTE:_**  The material below this line is still under construction.
 
 * **Dynamic Programming**          
     * Introduction                 [[slides](https://drive.google.com/file/d/1up8z0O4oEByYWus2GFa1QXDu-jLJC34y)]
