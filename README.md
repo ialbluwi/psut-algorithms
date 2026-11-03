@@ -38,6 +38,13 @@ Princess Sumaya University for Technology<br>
                            [[interview-prep](interview-prep/complexity.md)]
                            [[optional-material](optional-material/complexity.md)]
 
+* **Greedy Algorithms**            [[slides](https://drive.google.com/file/d/11bMhcejneJjwvSv3IhoS2EDgpFF-Xbmj)]
+                                   [[exercises](https://docs.google.com/document/d/1V3c-5-NiEmL-mqJYouv4FpaTtzVFHovP3cAY4zgDVdY)]
+                                   <!-- [interview-prep] -->
+                                   [optional-material]
+  
+> **_NOTE:_**  The material below this line is still under construction.
+
 * **Recurrence Equations**         
     * Introduction                 [[notes](notes/recurrences-intro.md)]
     * Recursion Tree Method        [[notes + exercises](https://drive.google.com/file/d/1qINRUccEHHfntMtGQH_AYeuF0PbMCAPB/view?usp=drive_link)][[solutions](https://drive.google.com/file/d/1ZayyGlh_GYi9zZsICty3Espb3Tqnbi28/view?usp=sharing)]
@@ -45,8 +52,6 @@ Princess Sumaya University for Technology<br>
                                    [[exercises](https://drive.google.com/file/d/1TyRuBx9PB5BQq_GAV-4NjekKuA8SNc1l)]
                                    [[optional-material](optional-material/master.md)]
     * ~~Iterative Substitution       [[notes](https://drive.google.com/file/d/11kRyPVPOfNPfwD39njN9P5Yh1ah0hZWF)]~~
-
-> **_NOTE:_**  The material below this line is still under construction.
 
 * **Backtracking & Branch and Bound**                 
                                    [[code](https://drive.google.com/file/d/1SzQoKpGLHWAqSEpIjUfbnwKMymKmGxjA)]
@@ -75,10 +80,6 @@ Princess Sumaya University for Technology<br>
     <!-- * [interview-prep] -->
     * [optional-material]
   
-* **Greedy Algorithms**            [[slides](https://drive.google.com/file/d/11bMhcejneJjwvSv3IhoS2EDgpFF-Xbmj)]
-                                   [[exercises](https://docs.google.com/document/d/1V3c-5-NiEmL-mqJYouv4FpaTtzVFHovP3cAY4zgDVdY)]
-                                   <!-- [interview-prep] -->
-                                   [optional-material]
 
 
 * **P vs. NP**                     [[slides](https://drive.google.com/file/d/1U2eVLn3eWTvL3sXw9GqxSbQ_bdBaAh_F)]
