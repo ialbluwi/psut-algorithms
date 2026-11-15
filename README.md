@@ -42,6 +42,13 @@ Princess Sumaya University for Technology<br>
                                    [[exercises](https://docs.google.com/document/d/1V3c-5-NiEmL-mqJYouv4FpaTtzVFHovP3cAY4zgDVdY)]
                                    <!-- [interview-prep] -->
                                    [optional-material]
+
+* **Backtracking & Branch and Bound**                 
+                                   [[code](https://drive.google.com/file/d/1SzQoKpGLHWAqSEpIjUfbnwKMymKmGxjA)]
+                                   [[exercises](https://docs.google.com/document/d/1p5wAd3cgPYtjGtTBYrc5pssapOtNZ7JKM6nQe0VB4tM)]
+                                   [[slides](https://drive.google.com/file/d/1kjeXRczTEMWeSf5rk7YHE9qEVgpOUF34)]
+                                   [[interview-prep](interview-prep/backtracking.md)]
+                                   [optional-material]
   
 > **_NOTE:_**  The material below this line is still under construction.
 
@@ -53,12 +60,6 @@ Princess Sumaya University for Technology<br>
                                    [[optional-material](optional-material/master.md)]
     * ~~Iterative Substitution       [[notes](https://drive.google.com/file/d/11kRyPVPOfNPfwD39njN9P5Yh1ah0hZWF)]~~
 
-* **Backtracking & Branch and Bound**                 
-                                   [[code](https://drive.google.com/file/d/1SzQoKpGLHWAqSEpIjUfbnwKMymKmGxjA)]
-                                   [[exercises](https://docs.google.com/document/d/1p5wAd3cgPYtjGtTBYrc5pssapOtNZ7JKM6nQe0VB4tM)]
-                                   [[slides](https://drive.google.com/file/d/1kjeXRczTEMWeSf5rk7YHE9qEVgpOUF34)]
-                                   [[interview-prep](interview-prep/backtracking.md)]
-                                   [optional-material]
 * **Divide & Conquer**             
     * Introduction + Merge Sort    [[slides](https://drive.google.com/file/d/1o13dQkmnxCxddsf13W4X419AHYa4wvKy)]
     * Quick Sort                   [[slides (short)](https://drive.google.com/file/d/1nYmqU9Bdh5PnSC_cwYPYX4LbBJ_wJpk8)]
